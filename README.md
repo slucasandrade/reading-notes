@@ -1,5 +1,5 @@
 # reading-notes
-Stores notes, insights, and code snippets related to book and article readings.
+Stores notes, insights, and code snippets related to my book and article readings.
 
 ## Books
 
