@@ -5,9 +5,9 @@ Stores notes, insights, and code snippets related to book and article readings.
 
 #### Kubernetes
 
-- Kubernetes: Up and Running: Dive Into the Future of Infrastructure - ? Edition by [Joe Beda](https://www.linkedin.com/in/jbeda/), [Kelsey Hightower](https://github.com/kelseyhightower), [Brendan Burns](https://github.com/brendandburns). - Notes [here](https://github.com/slucasandrade/reading-notes/tree/master/books/Kubernetes/Kubernetes:_Up_and_Running:_Dive_Into_the_Future_of_Infrastructure).
+- Kubernetes: Up and Running: Dive Into the Future of Infrastructure - ? Edition by [Joe Beda](https://www.linkedin.com/in/jbeda/), [Kelsey Hightower](https://github.com/kelseyhightower), [Brendan Burns](https://github.com/brendandburns). - Notes [here](https://github.com/slucasandrade/reading-notes/tree/master/books/kubernetes/Kubernetes:_Up_and_Running:_Dive_Into_the_Future_of_Infrastructure).
 
-- [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://k8spatterns.io/) by [Roland Huss](https://ro14nd.de/), [Bilgin Ibryam](https://github.com/bibryam). - Notes [here](https://github.com/slucasandrade/reading-notes/tree/master/books/Kubernetes/Kubernetes_Patterns:_Reusable_Elements_for_Designing_Cloud-Native_Applications).
+- [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://k8spatterns.io/) by [Roland Huss](https://ro14nd.de/), [Bilgin Ibryam](https://github.com/bibryam). - Notes [here](https://github.com/slucasandrade/reading-notes/tree/master/books/kubernetes/Kubernetes_Patterns:_Reusable_Elements_for_Designing_Cloud-Native_Applications).
 
 #### Golang
 
